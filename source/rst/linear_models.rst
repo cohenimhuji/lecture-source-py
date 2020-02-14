@@ -406,13 +406,6 @@ For instance, let
 
 .. math::
 
-    x_0
-    = \begin{bmatrix}
-            0 \\
-            0 \\
-            1
-      \end{bmatrix}
-    \qquad
     A
     = \begin{bmatrix}
         1 & 1 & 0 \\
@@ -427,7 +420,7 @@ For instance, let
             0
       \end{bmatrix}
 
-and starting at initial condition :math:`x_0 = \begin{bmatrix} 0 & 1 & 1 \end{bmatrix}'`.
+and starting at initial condition :math:`x_0 = \begin{bmatrix} 0 & 0 & 1 \end{bmatrix}'`. (`G` depends on `A`)
 
 It follows that
 
