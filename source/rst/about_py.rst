@@ -98,6 +98,7 @@ For example, the popularity of `pandas <http://pandas.pydata.org/>`_, a library 
 (The corresponding time path for MATLAB is shown for comparison)
 
 .. figure:: /_static/lecture_specific/about_py/pandas_vs_matlab.png
+    :scale: 82%
 
 Note that pandas takes off in 2012, which is the same year that we seek
 Python's popularity begin to spike in the first figure.
@@ -260,10 +261,12 @@ The most popular and comprehensive Python library for creating figures and graph
 Example 2D plot with embedded LaTeX annotations
 
 .. figure:: /_static/lecture_specific/about_py/qs.png
+    :scale: 60%
 
 Example contour plot
 
 .. figure:: /_static/lecture_specific/about_py/bn_density1.png
+    :scale: 50%
 
 Example 3D plot
 
